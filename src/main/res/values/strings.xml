@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">reciclaApp</string>
+    <string name="titulo_ambiental">APP AMBIENTAL</string>
+    <string name="titulo_recicla_ya">RECICLA YA</string>
+    <string name="titulo_menu">MENU</string>
+    <string name="titulo_tipos">TIPOS</string>
+    <string name="titulo_metodos">METODOS</string>
+
+</resources>
